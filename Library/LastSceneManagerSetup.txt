@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/IndieGameLevel.unity
+- path: Assets/Scenes/IndieGameLevel.unity
   isLoaded: 1
   isActive: 1
