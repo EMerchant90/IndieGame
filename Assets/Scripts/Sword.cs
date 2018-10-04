@@ -7,6 +7,7 @@ public class Sword : MonoBehaviour {
     float timer = .15f;
     float specialTimer = 1f;
     public bool special;
+    public GameObject swordParticles;
 
 	// Use this for initialization
 	void Start () {
@@ -29,6 +30,7 @@ public class Sword : MonoBehaviour {
         if(specialTimer <= 0)
         {
             GameObject.FindGameObjectWithTag("Player").GetComponent<Player>().canAttack = true;
+            Instantiate(swordParticles, transform.position, transform.rotation);
             Destroy(gameObject);
         }
 	}

@@ -99,6 +99,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 415981eeeada04495a0f5dcf44b93b80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  special: 0
+  swordParticles: {fileID: 1393626733962066, guid: 962ae2fc4184e4f529aed6d0cc3a8b82,
+    type: 2}
 --- !u!212 &212487849977410830
 SpriteRenderer:
   m_ObjectHideFlags: 1
