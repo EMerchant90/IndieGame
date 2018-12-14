@@ -664,7 +664,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.58, y: 0.39}
+    oldSize: {x: 0.36, y: 0.36}
     newSize: {x: 0.58, y: 0.39}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -745,6 +745,7 @@ MonoBehaviour:
   health: 1
   particleEffect: {fileID: 1843594692894334, guid: cf58020cead204cc0b8f8c4083bfa992,
     type: 2}
+  facingUp: {fileID: 21300010, guid: ba64b5a324c394c91b8aaf468cceb62d, type: 3}
 --- !u!1 &1427233780
 GameObject:
   m_ObjectHideFlags: 0

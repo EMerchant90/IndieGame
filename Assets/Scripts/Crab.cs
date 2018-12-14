@@ -6,9 +6,12 @@ public class Crab : MonoBehaviour {
 
     public int health;
     public GameObject particleEffect;
+    SpriteRenderer spriteRenderer;
+    public Sprite facingUp;
 	// Use this for initialization
 	void Start () {
-		
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        //spriteRenderer.sprite = facingUp; 
 	}
 	
 	// Update is called once per frame
