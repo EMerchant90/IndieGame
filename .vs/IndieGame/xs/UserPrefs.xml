@@ -1,5 +1,4 @@
 ﻿<Properties StartupConfiguration="{2403F6C5-C6EA-0EEF-B693-16980C4190CF}|">
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Crab.cs">
     <Files>
       <File FileName="Assets/Scripts/Player.cs" Line="46" Column="29" />
@@ -7,10 +6,11 @@
       <File FileName="Assets/Scripts/Crab.cs" Line="14" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
