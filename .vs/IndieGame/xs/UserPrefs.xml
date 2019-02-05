@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Assets/Scripts/Player.cs" Line="46" Column="29" />
       <File FileName="Assets/Scripts/Sword.cs" Line="43" Column="1" />
-      <File FileName="Assets/Scripts/Crab.cs" Line="14" Column="11" />
+      <File FileName="Assets/Scripts/Crab.cs" Line="10" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

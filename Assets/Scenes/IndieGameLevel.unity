@@ -742,7 +742,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58ca0581d1ca248a7ae68f7e0eea500c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: -3
   particleEffect: {fileID: 1843594692894334, guid: cf58020cead204cc0b8f8c4083bfa992,
     type: 2}
   facingUp: {fileID: 21300010, guid: ba64b5a324c394c91b8aaf468cceb62d, type: 3}
