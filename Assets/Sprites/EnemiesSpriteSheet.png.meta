@@ -57,6 +57,7 @@ TextureImporter:
     21300104: EnemiesSpriteSheet_52
     21300106: EnemiesSpriteSheet_53
     21300108: EnemiesSpriteSheet_54
+    21300110: EnemiesSpriteSheet_55
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -540,10 +541,10 @@ TextureImporter:
       name: EnemiesSpriteSheet_20
       rect:
         serializedVersion: 2
-        x: 378
-        y: 824
-        width: 50
-        height: 40
+        x: 389
+        y: 827
+        width: 39
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1232,6 +1233,26 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3ac6a03125be84d1287288ddb4489890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiesSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 488
+        width: 20
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a36073cc4f04364b0e6d5139ba47aa
       vertices: []
       indices: 
       edges: []

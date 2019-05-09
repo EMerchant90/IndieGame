@@ -10,7 +10,7 @@ public class Player : MonoBehaviour {
     Animator anim;
     public Image[] hearts;
     public int maxHealth;
-    int currentHealth;
+    public int currentHealth;
     public GameObject sword;
     public float thrustPower;
     public bool canMove;

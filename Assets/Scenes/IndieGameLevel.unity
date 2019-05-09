@@ -368,6 +368,7 @@ MonoBehaviour:
   - {fileID: 1051076927}
   - {fileID: 872932858}
   maxHealth: 2
+  currentHealth: 0
   sword: {fileID: 1798114984904396, guid: f56c968d0a28c48f1ae10bc2a2f552e4, type: 2}
   thrustPower: 250
   canMove: 1
@@ -657,10 +658,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.08140361, y: 0.004670799}
+  m_Offset: {x: -0.002168417, y: 0.004670799}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -671,7 +672,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.3658144, y: 0.36197543}
+  m_Size: {x: 0.36311847, y: 0.36197543}
   m_EdgeRadius: 0
 --- !u!212 &1057211304
 SpriteRenderer:
@@ -742,10 +743,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58ca0581d1ca248a7ae68f7e0eea500c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: -3
+  health: 1
   particleEffect: {fileID: 1843594692894334, guid: cf58020cead204cc0b8f8c4083bfa992,
     type: 2}
+  speed: 3
   facingUp: {fileID: 21300010, guid: ba64b5a324c394c91b8aaf468cceb62d, type: 3}
+  facingDown: {fileID: 21300008, guid: ba64b5a324c394c91b8aaf468cceb62d, type: 3}
+  facingRight: {fileID: 21300020, guid: ba64b5a324c394c91b8aaf468cceb62d, type: 3}
+  facingLeft: {fileID: 21300022, guid: ba64b5a324c394c91b8aaf468cceb62d, type: 3}
 --- !u!1 &1427233780
 GameObject:
   m_ObjectHideFlags: 0

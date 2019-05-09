@@ -1,9 +1,7 @@
 ﻿<Properties StartupConfiguration="{2403F6C5-C6EA-0EEF-B693-16980C4190CF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Crab.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
-      <File FileName="Assets/Scripts/Player.cs" Line="46" Column="29" />
-      <File FileName="Assets/Scripts/Sword.cs" Line="43" Column="1" />
-      <File FileName="Assets/Scripts/Crab.cs" Line="10" Column="28" />
+      <File FileName="appsettings.json" Line="12" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
